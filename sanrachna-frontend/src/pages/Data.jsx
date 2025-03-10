@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import Building3D from "../components/Building3D"; 
 
-const VITE_SERVER_URL = "http://localhost:3000";
+const VITE_SERVER_URL = import.meta.env.VITE_SERVER_URL;;
 
 const Data = () => {
   const { id } = useParams();
