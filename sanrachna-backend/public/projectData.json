@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "projectName": "Green Energy Plant",
+      "projectInfo": "A renewable energy project focused on solar and wind energy.",
+      "projectLocation": "California, USA",
+      "projectCode": "348927",
+      "sensors": [
+        "sensor3",
+        "sensor7",
+        "sensor10",
+        "sensor1",
+        "sensor14",
+        "sensor9",
+        "sensor2"
+      ]
+    },
+    {
+      "projectName": "Smart City Initiative",
+      "projectInfo": "An urban development project integrating IoT for better efficiency.",
+      "projectLocation": "Berlin, Germany",
+      "projectCode": "957314",
+      "sensors": [
+        "sensor2",
+        "sensor6",
+        "sensor12",
+        "sensor15",
+        "sensor8",
+        "sensor4",
+        "sensor11",
+        "sensor17"
+      ]
+    },
+    {
+      "projectName": "Autonomous Farming Infrastructure",
+      "projectInfo": "A high-tech farming project using automation and AI-driven sensors.",
+      "projectLocation": "Sydney, Australia",
+      "projectCode": "621845",
+      "sensors": [
+        "sensor1",
+        "sensor13",
+        "sensor7",
+        "sensor3",
+        "sensor9",
+        "sensor5",
+        "sensor16",
+        "sensor11"
+      ]
+    }
+  ]
+}
